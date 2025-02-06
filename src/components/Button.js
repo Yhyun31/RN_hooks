@@ -9,6 +9,7 @@ const Container = styled.TouchableOpacity`
     justify-content: center;
     align-items: center;
     `;
+    
 const Title = styled.Text`
     font-size: 24px;
     font-weight: 600;
